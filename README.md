@@ -14,7 +14,9 @@ https://www.youtube.com/watch?v=Tbo_1jtpLWs
 
 ## Section 02 - Getting Started
 
-### 7 - Installing \_ Using Create React App
+<br/>
+
+### 7 - Installing Using Create React App
 
     $ cd /project/
     $ npx create-react-app contact-manager
@@ -25,6 +27,14 @@ https://www.youtube.com/watch?v=Tbo_1jtpLWs
 <br/>
 
 ![Application](/img/pic-02-01.png?raw=true)
+
+<br/>
+
+### 8 - A Look At The Initial React Files
+
+<br/>
+
+![Application](/img/pic-02-02.png?raw=true)
 
 ---
 

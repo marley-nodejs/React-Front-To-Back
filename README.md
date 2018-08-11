@@ -36,6 +36,20 @@ https://www.youtube.com/watch?v=Tbo_1jtpLWs
 
 ![Application](/img/pic-02-02.png?raw=true)
 
+<br/>
+
+## Section 10 - client panel project
+
+<br/>
+
+### 3 - Setup AppNavbar Component
+
+    $ npm install --save react-router-dom
+
+<br/>
+
+![Application](/img/pic-10-01.png?raw=true)
+
 ---
 
 **Marley**

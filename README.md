@@ -58,6 +58,20 @@ https://www.youtube.com/watch?v=Tbo_1jtpLWs
 
 ![Application](/img/pic-10-02.png?raw=true)
 
+<br/>
+
+### 5 - React-Redux-Firebase Setup
+
+    $ npm install --save react redux react-redux firebase react-redux-firebase redux-firestore
+
+<br/>
+
+    https://github.com/prescottprue/react-redux-firebase
+
+<br/>
+
+![Application](/img/pic-10-03.png?raw=true)
+
 ---
 
 **Marley**

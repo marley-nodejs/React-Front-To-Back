@@ -50,6 +50,14 @@ https://www.youtube.com/watch?v=Tbo_1jtpLWs
 
 ![Application](/img/pic-10-01.png?raw=true)
 
+<br/>
+
+### 4 - Dashboard, Sidebar, Clients
+
+<br/>
+
+![Application](/img/pic-10-02.png?raw=true)
+
 ---
 
 **Marley**
